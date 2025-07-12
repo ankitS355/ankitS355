@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit sharma" height="30" width="40" /></a>
+<a href="https://[www.linkedin.com/in/ankit-sharma](http://linkedin.com/in/ankit-sharma-a804362b0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/a_nkit_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_nkit_raj7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tech-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech-code" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/tech-code](https://www.youtube.com/@techcode-s7h)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech-code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
